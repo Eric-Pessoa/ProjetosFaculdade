@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Checkpoint #1</string>
+    <string name="txtCalculadora">Calculadora</string>
+    <string name="txtContaTel">Conta telefônica</string>
+    <string name="txtIntegrantes">Integrantes</string>
+    <string name="txtValor1">Valor 1</string>
+    <string name="txtValor2">Valor 2</string>
+    <string name="txtViewRadio">Operação</string>
+    <string name="txtSoma">Soma</string>
+    <string name="txtSubtracao">Subtração</string>
+    <string name="txtMultiplicacao">Multiplicação</string>
+    <string name="txtDivisao">Divisão</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="txtOperacao">Operação</string>
+</resources>

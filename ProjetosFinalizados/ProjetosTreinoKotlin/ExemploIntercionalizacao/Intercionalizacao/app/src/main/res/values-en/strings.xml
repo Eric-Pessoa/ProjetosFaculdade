@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intercionalizacao</string>
+    <string name="tv_nome">Name</string>
+    <string name="btn_mensagem">Message</string>
+    <string name="ola_msg">Hey there</string>
+
+</resources>

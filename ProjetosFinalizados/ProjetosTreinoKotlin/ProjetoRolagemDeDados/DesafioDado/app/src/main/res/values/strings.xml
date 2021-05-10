@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Desafio Dado</string>
+    <string name="txtJogar">Jogar</string>
+    <string name="descDado1">Dado 1</string>
+    <string name="DescDado2">Dado 2</string>
+    <string name="txtTitulo">Jogue os dados</string>
+    <string name="txtJogador1">Jogador 1</string>
+    <string name="txtJogador2">Jogador 2</string>
+</resources>
